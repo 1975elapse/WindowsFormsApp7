@@ -26,7 +26,7 @@ namespace WindowsFormsApp7
             foreach (var item in arrya)
             {
                 Console.WriteLine(item);
-                Console.WriteLine(item+1);
+                Console.WriteLine(item+2);
             }
         }
     }
